@@ -1,5 +1,6 @@
 print("Hello, World")
 
+"""Numeric Types"""
 print("Python has three numeric types: int, float, and complex")
 
 myValue=1
@@ -31,7 +32,7 @@ print(myValue)
 print(type(myValue))
 print(str(myValue) + " is of the data type " + str(type(myValue)))
 
-
+"""Working with the String Data Type"""
 myString = "This is a string."
 print(myString)
 print(type(myString))
